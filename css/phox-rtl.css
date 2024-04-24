@@ -1,0 +1,255 @@
+.wdes-menu-navbar {
+    margin-right: auto;
+    margin-left: 0;
+}
+.wdes-menu-navbar ul.default-drop > li > a {
+    font-family: inherit;
+}
+
+.owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    -webkit-transform: translate3d(0,0,0);
+    direction: rtl !important;
+}
+
+
+.wdes-menu-navbar ul.default-drop > li > a .wdes-menu-align-right, .wdes-menu-navbar ul.default-drop > li > a .wdes-menu-align-auto {
+    margin-right: 5px;
+    margin-left: 0;
+}
+.wdes-menu-navbar ul.default-drop > li {
+    float: right;
+}
+.wdes-menu-navbar ul.default-drop > li > ul.dropdown-content.wdes-global-style > li a {
+    text-align: right;
+    font-family: inherit;
+    font-size: 14px;
+}
+.wdes-interface-menu #wdes-menu-top-header ul.menu li a {
+    font-family: inherit;
+}
+.wdes-interface-menu #wdes-menu-top-header ul.menu li a .wdes-menu-align-left {
+    float: right;
+    margin-left: 7px;
+    margin-right: auto;
+}
+a {
+    font-family: 'body-font';
+}
+.footer li, .footer input[type='text'], .footer input[type='password'], .footer input[type='email'], .footer input[type='url'], .footer input[type='date'], .footer input[type='number'], .footer input[type='tel'], .footer input[type='file'], .footer textarea, .footer select, .widget-footer #wp-calendar caption, .widget-footer #wdes-fullscreen-search-input::placeholder, .footer.footer-dark a.rsswidget {
+    text-align: right;
+}
+.footer .widget_wdes_newsletter p {
+    text-align: right;
+}
+.footer ul li a {
+    font-family: inherit;
+}
+.classy-wdes-about .company-info-block:first-child span::before {
+    float: right;
+    margin-left: 3%;
+    margin-right: auto;
+}
+.classy-wdes-about .company-info-block:nth-child(2) a::before {
+    float: right;
+    margin-left: 3%;
+    margin-right: 0;
+}
+.classy-wdes-about .company-info-block:nth-child(3) span::before {
+    float: right;
+    margin-left: 3%;
+    margin-right: 0;
+}
+.company-info-block span, .company-info-block a {
+    font-family: inherit;
+}
+.company-info-block span {
+    float: right;
+}
+footer .wid-title h2 {
+    text-align: right;
+}
+.footer .wdes-socialmedia-widget .socialmedia-icons li {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.footer .footer-menu li {
+    float: right;
+    margin: 0 0 0 15px;
+}
+.footer .footer-menu li a {
+    font-family: inherit;
+}
+.elementor-button-text , .elementor .wdes-testimonials-instance .wdes-testimonials-position span , .elementor .wdes-testimonials-instance .wdes-testimonials-name span , .custom-accordion-startup .elementor-accordion-item .elementor-tab-title a{
+    font-family: 'body-font' !important;
+}
+.elementor .wdes-testimonials-instance .wdes-testimonials-comment span {
+    font-family: inherit !important;
+}
+.elementor .wdes-testimonials-instance .owl-nav button {
+    transform: rotate(180deg);
+}
+.widgets_footer_area .wdes-about-widget p {
+    text-align: right;
+}
+.footer .wdes-about-widget {
+    text-align: right;
+}
+a.pricing-table-button {
+    font-family: inherit !important;
+}
+.wdes-head-highlight {
+    font-family: 'lists-font' !important;
+}
+.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-right {
+    float: left !important;
+}
+.elementor-widget-wdes_table .wdes-table .wdes-table-cell-inner .wdes-table-cell-content .wdes-table-cell-icon-after, .elementor-widget-wdes_table .wdes-table .wdes-table-cell-inner .wdes-table-cell-content .wdes-table-cell-img-after {
+    margin-right: 6px;
+    margin-left: 0;
+}
+#wdes-domain-search .domain-search-area-main .extensions-block .block .price-extention-domain-wdes {
+    padding-right: 10px !important;
+}
+.elementor-title {
+    font-family: 'body-font' !important;
+}
+span.wdes-head-after {
+    font-family: 'lists-font';
+}
+.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-right {
+    float: left !important;
+    text-align: left !important;
+}
+.wpcf7 label {
+    text-align: right;
+    direction: rtl;
+}
+.wpcf7 input[type=submit] {
+    font-family: inherit;
+}
+#wdes-back-to-top.wdes-btn-align-right {
+    left: 45px;
+    right: auto;
+}
+.wdes-section-header-primary , .wdes-nav-wrap .wdes-nav .menu-item-link {
+    font-family: 'lists-font' !important;
+}
+.wdes-fullscreen-search-overlay #wdes-fullscreen-search-wrapper #wdes-fullscreen-searchform #wdes-fullscreen-search-input {
+    text-align: right;
+    padding-right: 0;
+}
+#wdes-fullscreen-searchform button[type="submit"] {
+    left: 15px;
+    right: auto;
+}
+.wdes-dual-button-label {
+    font-family: 'body-font' !important;
+}
+.wdes-search-popup-trigger-container .wdes-search-popup-trigger .wdes-search-popup-trigger-submit-label {
+    margin-right: 15px;
+    margin-left: 0;
+}
+.wdes-search-field {
+    font-family: 'body-font' !important;
+}
+input[type="submit"] , .email-news , .wdes-pricing-table-price-suffix {
+    font-family: 'body-font' !important;
+}
+.wdes-testimonials-image {
+    margin-right: 30px !important;
+}
+.wdes-pricing-table-price-num {
+    font-family: 'header-font' !important;
+}
+#wdes-domain-search .domain-search-area-main .domain-form-wrapper .sea-dom {
+    font-family: inherit !important;
+}
+span.wdes-head-highlight {
+    font-family: 'header-font' !important;
+}
+.company-info-block img {
+    float: right;
+    margin-left: 10px;
+}
+.wpcf7 input[type="url"], .wpcf7 input[type="email"], .wpcf7 input[type="tel"], .subscribe-saas .wpcf7 input[type=email], .subscribe-saas .wpcf7 input[type=text] {
+    direction: rtl;
+    font-family: inherit;
+}
+h1.wdes-section-header-primary {
+    font-family: 'header-font' !important;
+}
+.posts li a , a.date-rep{
+    font-family: inherit !important;
+}
+.date-post-wid .far.fa-clock {
+    padding-left: 7px;
+    padding-right: 0;
+}
+.block-sidebar-function ul li a, .block-sidebar-function ul li span, .block-sidebar-function ol li a, .block-sidebar-function ol li span {
+    font-family: inherit !important;
+}
+.art-block-sub {
+    margin-left: 23px;
+    margin-right: 0;
+}
+.art-info-sub .art-block-sub span, .art-info-sub .art-block-sub a {
+    font-family: inherit;
+}
+img.icon-blog-outer {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.body-article p {
+    text-align: right;
+}
+.post-heading-title {
+    margin-bottom: 30px;
+    text-align: right;
+    padding-right: 30px;
+}
+.item-art .share-blog ul li a {
+    font-family: inherit;
+}
+.icon-share-post {
+    padding-left: 10px;
+    padding-right: 0;
+}
+.wid-title {
+    text-align: right;
+}
+.comments-blog {
+    text-align: right;
+}
+.comment-area img {
+    float: right;
+}
+a.comment-edit-link {
+    float: left;
+    font-family: inherit;
+}
+a.comment-reply-link {
+    font-family: inherit;
+    float: left;
+    margin-left: 10px;
+}
+.comment-respond {
+    text-align: right;
+}
+p.logged-in-as a {
+    font-family: 'body-font' !important;
+}
+h3.comment-reply-title {
+    font-family: 'header-font' !important;
+    font-size: 25px !important;
+}
+.footer .startup-wdes-about .company-info-block:nth-child(2) a::before, .footer .startup-wdes-about .company-info-block:nth-child(3) span::before {
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+}
+input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="date"], input[type="number"], input[type="tel"], input[type="file"], textarea, select {
+    direction: rtl;
+    font-family: inherit !important;
+}
